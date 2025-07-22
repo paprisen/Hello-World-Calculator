@@ -21,3 +21,13 @@ int main(){
     cout<<"\n Division of given nos. is: "<<divi;
     return 0;
 }
+
+/*
+output:
+Enter first number: 7
+Enter second number: 8
+Sum of given nos. is: 15
+Subtration of given nos. is: -1
+Multiplication of given nos. is: 56
+Division of given nos. is: 0
+*/
